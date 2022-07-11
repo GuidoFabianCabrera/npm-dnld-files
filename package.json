@@ -1,0 +1,16 @@
+{
+  "name": "@guidofc/dnld-files",
+  "version": "1.0.1",
+  "description": "download all files from a list",
+  "main": "index.js",
+  "bin": {
+    "dnld-files": "./index.js"
+  },
+  "author": "guidofc",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^5.0.2",
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21"
+  }
+}
