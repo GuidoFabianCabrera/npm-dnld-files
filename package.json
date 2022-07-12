@@ -1,7 +1,7 @@
 {
   "name": "@guidofc/dnld-files",
-  "version": "1.0.1",
-  "description": "download all files from a list",
+  "version": "1.0.6",
+  "description": "Download all files in a list separated by commas",
   "main": "index.js",
   "bin": {
     "dnld-files": "./index.js"
@@ -12,5 +12,12 @@
     "arg": "^5.0.2",
     "axios": "^0.27.2",
     "lodash": "^4.17.21"
-  }
+  },
+  "keywords": [
+    "npm",
+    "download",
+    "file",
+    "doc",
+    "image"
+  ]
 }
