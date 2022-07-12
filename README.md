@@ -4,11 +4,17 @@ Download all files in a list separated by commas
 
 ## Installation
 
+### dnld-files
+
+dnld-files is available as an [npm package](https://www.npmjs.com/package/@guidofc/dnld-files).
+
+**npm:**
+
 ```sh
 $ npm install -g @guidofc/dnld-files
 ```
 
-Or if you prefer using Yarn:
+**yarn:**
 
 ```sh
 $ yarn global add @guidofc/dnld-files

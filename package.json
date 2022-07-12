@@ -1,6 +1,6 @@
 {
   "name": "@guidofc/dnld-files",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Download all files in a list separated by commas",
   "main": "index.js",
   "bin": {
